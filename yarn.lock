@@ -6333,12 +6333,10 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-"lighthousebot@https://github.com/GoogleChromeLabs/lighthousebot":
-  version "0.2.0"
-  resolved "https://github.com/GoogleChromeLabs/lighthousebot#350d70440116928c6dd25c4daa83ca3dcc1c3dfc"
-  dependencies:
-    minimist "^1.2.0"
-    node-fetch "^2.2.0"
+lighthousebot@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/lighthousebot/-/lighthousebot-1.0.0.tgz#efc65b87d4bb0fb9622258301ceb56df4cb8bc7d"
+  integrity sha512-O2p/LpNFRVZQVASf3mdKa10rD7VV30q68W+MuahqWgks40qeoMLCPjNuB4LprVnhSeiRAj7nXaG43g57Cvn8eA==
 
 load-json-file@^2.0.0:
   version "2.0.0"
@@ -6882,7 +6880,7 @@ node-environment-flags@^1.0.5:
     object.getownpropertydescriptors "^2.0.3"
     semver "^5.7.0"
 
-node-fetch@^2.2.0, node-fetch@^2.3.0:
+node-fetch@^2.3.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
   integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
